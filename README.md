@@ -9,7 +9,7 @@ Write your name on line 6, save it, and then head back to GitHub Desktop. -->
 
 <center>José Antonio Rojas Delgado</center>
 
-<div style="text-align:center;">José Antonio Rojas Delgado</div>
+<div style="align:center;">José Antonio Rojas Delgado</div>
 
 <div style="float:right;">José Antonio Rojas Delgado</div>
 
