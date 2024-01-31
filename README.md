@@ -15,6 +15,6 @@ Write your name on line 6, save it, and then head back to GitHub Desktop. -->
 
 Visita mi web en [http://www.rojasdelgado.com](http://www.rojasdelgado.com)
 
-Descarga [mi logo](http://www.rojasdelgado.com/fondoagua.gif)
+<!-- Descarga [mi logo](http://www.rojasdelgado.com/fondoagua.gif) -->
 
 ![mi logo animado](http://www.rojasdelgado.com/fondoagua.gif)
