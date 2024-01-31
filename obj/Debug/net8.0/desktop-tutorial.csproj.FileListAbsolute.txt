@@ -1,0 +1,15 @@
+c:\Users\User\Documents\GitHub\desktop-tutorial\bin\Debug\net8.0\desktop-tutorial.exe
+c:\Users\User\Documents\GitHub\desktop-tutorial\bin\Debug\net8.0\desktop-tutorial.deps.json
+c:\Users\User\Documents\GitHub\desktop-tutorial\bin\Debug\net8.0\desktop-tutorial.runtimeconfig.json
+c:\Users\User\Documents\GitHub\desktop-tutorial\bin\Debug\net8.0\desktop-tutorial.dll
+c:\Users\User\Documents\GitHub\desktop-tutorial\bin\Debug\net8.0\desktop-tutorial.pdb
+c:\Users\User\Documents\GitHub\desktop-tutorial\obj\Debug\net8.0\desktop-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Documents\GitHub\desktop-tutorial\obj\Debug\net8.0\desktop-tutorial.AssemblyInfoInputs.cache
+c:\Users\User\Documents\GitHub\desktop-tutorial\obj\Debug\net8.0\desktop-tutorial.AssemblyInfo.cs
+c:\Users\User\Documents\GitHub\desktop-tutorial\obj\Debug\net8.0\desktop-tutorial.csproj.CoreCompileInputs.cache
+c:\Users\User\Documents\GitHub\desktop-tutorial\obj\Debug\net8.0\desktop-tutorial.sourcelink.json
+c:\Users\User\Documents\GitHub\desktop-tutorial\obj\Debug\net8.0\desktop-tutorial.dll
+c:\Users\User\Documents\GitHub\desktop-tutorial\obj\Debug\net8.0\refint\desktop-tutorial.dll
+c:\Users\User\Documents\GitHub\desktop-tutorial\obj\Debug\net8.0\desktop-tutorial.pdb
+c:\Users\User\Documents\GitHub\desktop-tutorial\obj\Debug\net8.0\desktop-tutorial.genruntimeconfig.cache
+c:\Users\User\Documents\GitHub\desktop-tutorial\obj\Debug\net8.0\ref\desktop-tutorial.dll
